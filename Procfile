@@ -1,1 +1,1 @@
-web: uvicorn app:async_app
+web: gunicorn app:async_app
