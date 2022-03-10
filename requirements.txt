@@ -7,4 +7,5 @@ h11==0.13.0
 itsdangerous==2.1.1
 Jinja2==3.0.3
 MarkupSafe==2.1.0
+uvicorn==0.17.5
 Werkzeug==2.0.3
